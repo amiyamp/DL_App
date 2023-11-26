@@ -1,6 +1,8 @@
-streamlit==0.84.0
-numpy==1.21.2
-Pillow==8.3.1
-tensorflow==2.5.0
-keras==2.4.3
-scikit-learn==0.24.2
+streamlit
+numpy
+Pillow
+tensorflow
+keras
+scikit-learn
+pandas
+tqdm
