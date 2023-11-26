@@ -17,7 +17,7 @@ from tensorflow.keras.preprocessing import sequence
 # Load your models
 rnn_model = load_model('spam_model.h5')
 lstm_model = load_model('LSTM_model.h5')
-cnn_model = tf.keras.models.load_model('tumor_model.h5')
+#cnn_model = tf.keras.models.load_model('tumor_model.h5')
 dnn_model = load_model('spam_dnn_model.h5')
 
 
